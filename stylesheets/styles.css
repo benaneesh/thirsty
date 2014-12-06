@@ -1,3 +1,4 @@
+/*
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
@@ -252,4 +253,46 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+*/
+
+body{
+  font-family: Didot,"Didot LT STD","Hoefler Text",Garamond,"Times New Roman",serif;
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  width: 640px;
+  margin: 50px auto;
+}
+
+h1{
+  width: 640px;
+  text-align: center;
+  font-size: 5em;
+  margin: 0;
+  margin-left: 8px;
+  padding: 0;
+  letter-spacing: 24px;
+  font-weight: 900;
+}
+
+h3{
+  font-style: italic;
+  width: 640px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-family: TimesNewRoman,"Times New Roman",Times,Baskerville,Georgia,serif;
+  width: 280px;
+  float: left;
+  opacity: .8;
+  margin: 40px 20px;
+  text-align: justify;
+  letter-spacing: .25px;
+  line-height: 30px;
 }
